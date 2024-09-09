@@ -3,5 +3,3 @@ pygame==2.5.0
 pyht==0.1.0
 pydub==0.25.1
 requests==2.32.3
-spotipy==2.22.0
-apify-client==1.1.0
