@@ -1,5 +1,5 @@
 streamlit==1.21.0
-pygame==2.5.0
+pygame
 pyht==0.1.0
 pydub==0.25.1
 requests==2.32.3
