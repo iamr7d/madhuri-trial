@@ -1,7 +1,5 @@
-streamlit==1.21.0
+streamlit==1.38.0
 pygame==2.5.0
-pyht==0.1.0  # Use an available version of pyht
+pyht==0.1.0  # Ensure this version exists
 pydub==0.25.1
 requests==2.32.3
-spotipy==2.22.0  # Include this if you use Spotify functionality
-apify-client==1.1.0  # Include this if you use Apify functionality
