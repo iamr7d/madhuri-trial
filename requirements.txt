@@ -1,5 +1,5 @@
 streamlit==1.38.0
-pygame==2.5.0
-pyht==0.1.0  # Ensure this version exists
+pygame==2.6.0
+pyht==0.0.28
 pydub==0.25.1
-requests==2.32.3
+groq==0.9.0
